@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WeatherN.Properties
+namespace WeatherApp.Properties
 {
 
 
